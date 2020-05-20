@@ -1,4 +1,3 @@
-# coucoucoo.github.io
----
-OH YEAH！
-让我们搞些事情~
+# coucoucoo.com
+
+the new website is coming (not too) soon!
