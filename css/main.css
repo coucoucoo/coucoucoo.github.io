@@ -140,9 +140,11 @@ body {
   padding: .75rem 1.25rem;
 
 }
-.cover h2{
+
+.cover h2 {
   font-size: 2em;
 }
+
 .cover .logo {
   font-size: 240px;
   font-weight: 400;
@@ -152,10 +154,12 @@ body {
   .cover {
     font-size: 0.85em;
   }
+
   .cover .logo {
     font-size: 160px;
   }
-  .cover h2{
+
+  .cover h2 {
     font-size: 1.5em;
   }
 }
@@ -166,4 +170,10 @@ body {
 .mastfoot {
   color: rgba(0, 0, 0, .5);
   font-size: 12px;
+}
+
+.logoimg {
+  display: block;
+  width: 100%;
+  height: 280px;
 }
