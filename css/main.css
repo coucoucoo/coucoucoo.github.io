@@ -156,7 +156,7 @@ body {
   height: 240px;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 480px) {
   .cover p{
     font-size: 0.6em;
     font-weight: 400;
