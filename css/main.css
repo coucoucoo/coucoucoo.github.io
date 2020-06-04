@@ -157,8 +157,9 @@ body {
 }
 
 @media (max-width: 360px) {
-  .cover {
-    font-size: 0.85em;
+  .cover p{
+    font-size: 0.6em;
+    font-weight: 400;
   }
 
   .cover .logo {
@@ -166,10 +167,10 @@ body {
   }
 
   .cover h2 {
-    font-size: 1.5em;
+    font-size: 1.2em;
   }
   .logoimg {
-    height: 150px;
+    height: 120px;
   }
 }
 
